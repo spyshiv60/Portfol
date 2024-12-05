@@ -1,18 +1,18 @@
 # Portfol
 https://graceful-faun-833b8b.netlify.app/
 
-Resume Formats: Chronological, Hybrid, Functional, and Linear
+# Resume Formats: Chronological, Hybrid, Functional, and Linear
 1. Chronological Format
 Overview
 Structure: Lists your work history in reverse chronological order (latest job/experience first).
 Best for: Freshers or individuals with a continuous and stable career path.
-Key Features
+# Key Features
 Structure:
 Contact Information
 Objective or Summary
 Work Experience (most recent first)
 Education
-Skills
+# Skills
 Focuses on work experience and career progression.
 Highlights job titles, company names, and employment dates.
 Suitable for job roles requiring direct experience.
@@ -22,7 +22,7 @@ Jobs emphasizing career growth (e.g., software developer, marketing associate).
 Real-Time Example
 Scenario: A recent graduate applying for a Software Engineer role.
 Why Use This Format? Highlights academic achievements, internships, and part-time work that align with the job role.
-Template
+# Template
 [Your Name]
 [Contact Information]
 
@@ -76,12 +76,12 @@ Skills:
 - [Skill 2]
 - [Skill 3]
 
-Work Experience:
-1. [Role Title], [Company Name] | [Month/Year – Month/Year]
+# Work Experience:
+# 1. [Role Title], [Company Name] | [Month/Year – Month/Year]
    - [Responsibility/Task 1]
    - [Responsibility/Task 2]
 
-2. [Role Title], [Company Name] | [Month/Year – Month/Year]
+# 2. [Role Title], [Company Name] | [Month/Year – Month/Year]
    - [Responsibility/Task 1]
    - [Responsibility/Task 2]
 
@@ -90,7 +90,7 @@ Education:
 
 Achievements:
 - [Award/Project]
-3. Functional Format
+# 3. Functional Format
 Overview
 Structure: Focuses on skills and achievements rather than a detailed job history.
 Best for: Candidates with gaps in employment, career changes, or diverse experiences.
@@ -129,7 +129,7 @@ Work Experience :
 
 Education:
 - [Degree, College Name, Year of Graduation]
-4. Linear Format
+#4. Linear Format
 Overview
 Structure: Presents information straightforwardly and sequentially.
 Best for: Beginners or freshers with minimal experience.
@@ -144,7 +144,7 @@ Details like education, skills, and achievements are presented clearly.
 Applications
 Entry-level positions (e.g., Junior Developer, Marketing Intern).
 Ideal for roles that don’t require extensive customization of skills.
-Real-Time Example
+# Real-Time Example
 Scenario: A diploma holder applying for a Data Entry position.
 Why Use This Format? Provides all necessary details without overwhelming recruiters.
 Template
